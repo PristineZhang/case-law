@@ -10,7 +10,7 @@ Provides a fashion front-end and robust backend contains 1.Live data collection,
 
 # Roadmap
 **Frontend** @ZYN @QMY
-- [ ] 显示总共多少，新增多少 @FRAN
+- [X] 显示总共多少，新增多少 @FRAN
 - [ ] 查询补全 @YANG
 - [ ] 查询纠错 @YANG
 
